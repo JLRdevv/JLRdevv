@@ -2,9 +2,9 @@
 <h3 align="center">🚀 Backend Developer | 🎓 Information Systems Student | 💻 Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/joaolucas"><img src="https://img.shields.io/github/followers/joaolucas?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/JLRdevv"><img src="https://img.shields.io/github/followers/JLRdevv?label=Follow&style=social" alt="GitHub Followers"></a>
   &nbsp;
-  <a href="https://linkedin.com/in/joaolucas"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/jlrads"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
