@@ -57,7 +57,7 @@
 
 <p>
   <a href="https://github.com/JLRdevv/Moossage-of-the-day">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLRdevv&repo=Moossage-of-the-day&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLRdevv&repo=Moossage-of-the-day&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
