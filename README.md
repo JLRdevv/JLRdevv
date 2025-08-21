@@ -46,7 +46,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JLRdevv&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLRdevv&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLRdevv&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---
